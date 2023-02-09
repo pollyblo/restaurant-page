@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Oslo';
+  src: url(../assets/font/DTNightingale-Light.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Oslo;
+  list-style-type: none;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-image: url(../assets/oslo-bg2.jpg);
+}

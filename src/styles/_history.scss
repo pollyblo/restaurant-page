@@ -1,0 +1,22 @@
+.history {
+  width: max(60vw, 250px);
+  height: 80vh;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+
+  padding: 20px 10px;
+  margin: 20px 0px 0px 0px;
+
+  border-radius: 10px;
+  background-color: rgba(100, 100, 100, 0.1);
+}
+
+.main-story {
+  height: fit-content;
+  background-color: black;
+  color: white;
+  &::before {
+    content: 'One day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.';
+  }
+}

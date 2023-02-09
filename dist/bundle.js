@@ -1,0 +1,2 @@
+(()=>{"use strict";console.log("hellsfxvdvso")})();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYnVuZGxlLmpzIiwibWFwcGluZ3MiOiJtQkFDQUEsUUFBUUMsSUFBSSxlIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcHJvamVjdC10ZW1wbGF0ZS8uL3NyYy9zY3JpcHQvYXBwLnRzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCAnLi4vc3R5bGVzL3N0eWxlLnNjc3MnO1xuY29uc29sZS5sb2coJ2hlbGxzZnh2ZHZzbycpO1xuIl0sIm5hbWVzIjpbImNvbnNvbGUiLCJsb2ciXSwic291cmNlUm9vdCI6IiJ9

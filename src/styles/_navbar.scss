@@ -1,0 +1,33 @@
+$light-grey: rgba(255, 255, 255, 0.349);
+
+#navbar {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  margin: 0px 0px 0px 30px;
+  padding: 0px 0px 20px 0px;
+
+  position: fixed;
+  top: 500px;
+  left: 0px;
+
+  color: $light-grey;
+}
+
+#navbar > li:hover {
+  color: white;
+  cursor: pointer;
+}
+
+#home-btn {
+  color: $light-grey;
+  position: fixed;
+  top: 20px;
+  left: 30px;
+  &:hover {
+    color: white;
+    cursor: pointer;
+  }
+}

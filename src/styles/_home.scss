@@ -1,0 +1,16 @@
+.title {
+  width: max(300px, 10vw);
+  color: white;
+  position: fixed;
+  top: 150px;
+  left: max(150px, 20vw);
+  font-size: 4rem;
+  letter-spacing: 4px;
+  line-height: 55px;
+  + p {
+    @extend .title;
+    font-size: 0.9rem;
+    letter-spacing: normal;
+    top: 255px;
+  }
+}
